@@ -1,0 +1,17 @@
+{
+  "name": "jason",
+  "version": "1.0.0",
+  "description": "A very simple (not spec-compliant) JSON parser written for learning purposes.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "javascript",
+    "json",
+    "parser"
+  ],
+  "author": "Ilya Meerovich",
+  "license": "ISC"
+}
