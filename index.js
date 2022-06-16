@@ -4,8 +4,6 @@ export default class Jason {
     this.current = 0;
     this.start = 0;
     this.count = 0;
-
-    this.hasError = false;
   }
 
   parse(input) {
